@@ -18,3 +18,4 @@ cerebro_running:
         - enable: True
         - watch:
             - file: cerebro_systemd_unit
+            - file: config_cerebro
